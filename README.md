@@ -1,61 +1,82 @@
 ![Banner](https://your-banner-image-url.com)
 
-# Hi there, I'm Sayan Nayak! 👋
+<h1 align="center">Hey there, I'm <span style="color:#ff6600">Sayan Nayak</span>! 👋</h1>
 
-🚀 Full-Stack Developer | 🔥 Passionate about Web Development | 🎯 Always Learning
+<p align="center">🚀 Full-Stack Developer | 🎨 UI/UX Enthusiast | 💡 Problem Solver | ⚡ Tech Explorer</p>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFA500&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+C%23+%7C+React.js+%7C+SQL;Building+Scalable+and+Modern+Web+Applications;Always+Learning+and+Exploring+New+Tech!" alt="Typing SVG" />
+</div>
 
 ---
 
 ## 🔥 About Me
-- 🏗️ Building scalable web applications with **React.js, ASP.NET, and SQL Server**.
-- 💡 Exploring **Vue.js, Node.js, and MongoDB** for modern web solutions.
-- 📌 Experienced with **Azure DevOps, GitHub Actions, and CI/CD pipelines**.
-- 🎯 Currently improving my **DSA skills in C#**.
-- 📩 Let's connect: **[sayannayak.dev](https://your-portfolio.com)**
+- 🏗️ Crafting high-performance **web applications** using **React.js, ASP.NET, and SQL Server**.
+- 🌍 Passionate about **clean UI/UX, scalability, and microservices**.
+- 💡 Exploring **Vue.js, Node.js, and AI-driven development**.
+- ⚙️ Proficient in **Azure DevOps, GitHub Actions, and CI/CD pipelines**.
+- 🎯 Currently improving **DSA skills in C#**.
+- 📬 Reach me at: **[sayannayak.dev](https://your-portfolio.com)**
 
 ---
 
 ## ⚡ Tech Stack
 
 ### 💻 Languages
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,cs,java,python,sql" />
+</p>
 
 ### 🌐 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,vue,tailwind,scss" />
+</p>
 
-### 🔧 Backend
-![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### 🗄️ Database
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+### 🔧 Backend & Database
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,mongodb,mysql,postgres" />
+</p>
 
 ### 🚀 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,azure,postman,linux,docker" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Insights
 
-![Sayan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sayannayak&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayannayak&layout=compact&theme=radical)
-
----
-
-## 🔗 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayannayak)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=web&logoColor=white)](https://your-portfolio.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sayannayak)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayannayak&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sayannayak&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayannayak&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
 ---
 
-⭐️ **Feel free to explore my repositories and collaborate!** 🚀
+## 🏆 LeetCode Stats
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/thesayannayak?theme=dark&font=Fira%20Code&hide=ranking" alt="LeetCode Stats" />
+</div>
+
+---
+
+## 🌍 Let's Connect
+<p align="center">
+  <a href="https://www.linkedin.com/in/sayannayak" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://your-portfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://twitter.com/sayannayak" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+</p>
+
+---
+
+⭐️ **Dive into my projects, explore my repositories, and let's build something amazing together!** 🚀
