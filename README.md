@@ -26,22 +26,51 @@
 
 ### 💻 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,cs,java,python,sql" />
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=cs" alt="C#" />
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=sql" alt="SQL" />
+</p>
+<p align="center" style="font-size: small;">
+  JavaScript | TypeScript | C# | Java | Python | SQL
 </p>
 
 ### 🌐 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vue,tailwind,scss" />
+  <img src="https://skillicons.dev/icons?i=react" alt="React" />
+  <img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" />
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=scss" alt="SCSS" />
+</p>
+<p align="center" style="font-size: small;">
+  React | Vue.js | Tailwind CSS | SCSS
 </p>
 
 ### 🔧 Backend & Database
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,mongodb,mysql,postgres" />
+  <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" />
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" />
+</p>
+<p align="center" style="font-size: small;">
+  .NET | Node.js | MongoDB | MySQL | PostgreSQL
 </p>
 
 ### 🚀 Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,azure,postman,linux,docker" />
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=azure" alt="Azure" />
+  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" />
+  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
+</p>
+<p align="center" style="font-size: small;">
+  Git | GitHub | Azure | Postman | Linux | Docker
 </p>
 
 ---
@@ -60,7 +89,12 @@
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/thesayannayak?theme=dark&font=Fira%20Code&hide=ranking" alt="LeetCode Stats" />
+  <p align="center">
+    <sub style="color: gray;">*Stats are updated in real-time from LeetCode.</sub>
+  </p>
 </div>
+
+
 
 ---
 
